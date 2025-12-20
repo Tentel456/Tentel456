@@ -15,8 +15,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Tentel456&color=green)
 
-## 🔗 Langs
+## 🔗 Stack
 <div style="display: flex;">
 <img width="50px" height="50px" src="icons/cplusplus.svg" />
 <img width="50px" height="50px" src="icons/python.svg" />
+<img width="50px" height="50px" src="icons/html5.svg" />
+<img width="50px" height="50px" src="icons/tailwindcss.svg" />
 </div>
