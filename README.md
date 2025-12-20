@@ -12,3 +12,5 @@
 ## 🔗 Links
 [![Grishinium](https://img.shields.io/badge/grishinium-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://grishinium.com)
 [![MyTelegram](https://img.shields.io/badge/MyTelegram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.me/fearted)
+
+![](https://komarev.com/ghpvc/?username=Tentel456&color=green)
