@@ -1,5 +1,5 @@
 ## Hi, I'm Aleksandr Grishin 👋
-
+<p>Programming Enthusiast</p>
 ## 🧱 Things I building
 <ul>
 <li>Peer-to-peer (P2P) decentralized AI Learning Network - Grishinium</li>
