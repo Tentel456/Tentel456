@@ -1,6 +1,11 @@
 ## Hi, I'm Aleksandr Grishin 👋
 
-
+## 🧱 Things I building
+<ul>
+<li>Peer-to-peer (P2P) AI Learning Network - Grishinium</li>
+<li>Momentum</li>
+<li>Optimum</li>
+</ul>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tentel456&hide_border=true" alt="GitHub Streak" /></a>
 
 ### 📈 My activity:
