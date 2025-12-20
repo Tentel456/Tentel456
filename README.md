@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Aleksandr Grishin 👋
 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tentel456&hide_border=true" alt="GitHub Streak" /></a>
