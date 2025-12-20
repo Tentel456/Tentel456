@@ -1,5 +1,5 @@
 ## Hi, I'm Aleksandr Grishin 👋
-<p>Programming Enthusiast</p>
+<p>Programming Enthusiast, learning cryptography on Stanford University</p>
 
 ## 🧱 Things I building
 <ul>
