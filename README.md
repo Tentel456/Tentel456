@@ -17,3 +17,4 @@
 
 ## 🔗 Langs
 <img width="50px" height="50px" src="icons/cplusplus.svg" />
+<img width="50px" height="50px" src="icons/python.svg" />
