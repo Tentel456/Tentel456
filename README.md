@@ -16,4 +16,4 @@
 ![](https://komarev.com/ghpvc/?username=Tentel456&color=green)
 
 ## 🔗 Langs
-<img src="icons/cplusplus.svg" />
+<img width="50px" height="50px" src="icons/cplusplus.svg" />
