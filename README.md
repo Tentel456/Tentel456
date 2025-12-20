@@ -4,7 +4,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tentel456&hide_border=true" alt="GitHub Streak" /></a>
 
 ### 📈 My activity:
-[![Tentel456's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tentel456)](https://github.com/Tentel456/github-readme-activity-graph)
+[![Tentel456's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tentel456&theme=github-compact)](https://github.com/Tentel456/github-readme-activity-graph)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tentel456&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
