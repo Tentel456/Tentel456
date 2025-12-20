@@ -15,7 +15,6 @@
 [![Grishinium](https://img.shields.io/badge/grishinium-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://grishinium.com)
 [![MyTelegram](https://img.shields.io/badge/Telegram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.me/fearted)
 
-![](https://komarev.com/ghpvc/?username=Tentel456&color=green)
 
 ## 🔗 Stack
 <div style="display: flex;">
@@ -26,3 +25,8 @@
 <img width="50px" height="50px" src="icons/typescript.svg" />
 <img width="50px" height="50px" src="icons/react.svg" />
 </div>
+
+## Additional information
+
+
+![](https://komarev.com/ghpvc/?username=Tentel456&color=green)
