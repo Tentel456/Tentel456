@@ -10,7 +10,7 @@
 <li>Surfers - WEBGL Version of Subway surfers.</li>
 </ul>
 <center>
-<a href="https://git.io/streak-stats"><div style="text-align: center;"><img src="https://streak-stats.demolab.com?user=Tentel456&hide_border=true" alt="GitHub Streak" /></div></center></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tentel456&hide_border=true" alt="GitHub Streak" /></a>
 </center>
 
 ### 📈 My activity:
