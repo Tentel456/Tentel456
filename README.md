@@ -12,18 +12,10 @@
 
 
 ### 📈 My activity:
+
 <div align="center">
-  <a href="https://github.com/Tentel456">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tentel456&layout=compact&langs_count=10" alt="Tentel456's most used languages" onerror="this.onerror=null;this.src='assets/images/stats/top-langs.svg';">
-  </a>
-  <a href="https://github.com/Tentel456">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Tentel456&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Tentel456's GitHub Stats" onerror="this.onerror=null;this.src='assets/images/stats/github-stats.svg';">
-  </a>
-</div>
-
-
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tentel456&hide_border=true" alt="GitHub Streak" /></a>
-
+</div>
 
 [![Tentel456's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tentel456&theme=github-compact)](https://github.com/Tentel456/github-readme-activity-graph)
 
