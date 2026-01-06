@@ -22,6 +22,7 @@
 
 <a align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tentel456&theme=default"></a>
 <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tentel456&theme=default"></a>
+<a><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tentel456&theme=default"></a>
 
 
 
