@@ -20,7 +20,7 @@
 [![Tentel456's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tentel456&theme=github-compact)](https://github.com/Tentel456/github-readme-activity-graph)
 
 
-<a align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tentel456&theme=default"></a>
+<a align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tentel456&theme=default" width="100%"></a>
 <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tentel456&theme=default"></a>
 <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tentel456&theme=default"></a>
 
