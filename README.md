@@ -14,7 +14,9 @@
 ### 📈 My activity:
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tentel456&hide_border=true)](https://git.io/streak-stats)
+<!----[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tentel456&hide_border=true)](https://git.io/streak-stats)---->
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tentel456&hide_border=true" width="100%"></a>
 
 
 [![Tentel456's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tentel456&theme=github-compact)](https://github.com/Tentel456/github-readme-activity-graph)
