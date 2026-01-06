@@ -23,9 +23,12 @@
 <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tentel456&theme=default"></a>
 <a><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tentel456&theme=default"></a>
 </div>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tentel456&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tentel456&theme=default&utcOffset=8)
+
+<div style="display: flex;">
+<a><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tentel456&theme=default"></a>
+<a><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tentel456&theme=default&utcOffset=8"></a>
+</div>
 
 
 ## 🔗 Links
