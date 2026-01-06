@@ -19,11 +19,11 @@
 
 [![Tentel456's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tentel456&theme=github-compact)](https://github.com/Tentel456/github-readme-activity-graph)
 
-
+<div display="flex">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tentel456&theme=default)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tentel456&theme=default)
-
+</div>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tentel456&theme=default)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tentel456&theme=default&utcOffset=8)
