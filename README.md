@@ -20,7 +20,13 @@
 [![Tentel456's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tentel456&theme=github-compact)](https://github.com/Tentel456/github-readme-activity-graph)
 
 
-![Metrics](https://metrics.lecoq.io/Tentel456?template=classic&habits=1&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=html&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=Europe%2FMoscow)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tentel456&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tentel456&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tentel456&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tentel456&theme=default&utcOffset=8)
 
 
 ## 🔗 Links
