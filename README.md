@@ -3,7 +3,7 @@
 
 ## 🧱 Things I building
 <ul>
-<li>Peer-to-peer (P2P) decentralized AI Learning Network - Grishinium</li>
+<li>Grishinium</li>
 <li>PoAI (Proof of AI) consensus alghoritm</li>
 <li>Momentum</li>
 <li>Optimum</li>
