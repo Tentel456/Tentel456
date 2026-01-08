@@ -4,6 +4,7 @@
 ## 🧱 Things I building
 <ul>
 <li>Grishinium</li>
+<li>Parameter - P2P AI Learning Network</li>
 <li>PoAI (Proof of AI) consensus alghoritm</li>
 <li>Momentum</li>
 <li>Optimum</li>
