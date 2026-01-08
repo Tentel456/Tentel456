@@ -1,5 +1,5 @@
 ## Hi, I'm Aleksandr Grishin 👋
-<p>Programming Enthusiast.</p>
+<p>Parameter Network CEO. Cryptographer. Learning Cryptography in Stanford Univesity with Dan Boneh.</p>
 
 ## 🧱 Things I building
 <ul>
