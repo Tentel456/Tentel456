@@ -6,7 +6,7 @@
 <li>Grishinium</li>
 <li>Parameter - P2P AI Learning Network</li>
 <li>PoAI (Proof of AI) consensus alghoritm</li>
-<li>Momentum</li>
+<li>Momentum - social network</li>
 <li>Optimum</li>
 <li>Surfers - WEBGL Version of Subway surfers.</li>
 </ul>
