@@ -1,5 +1,5 @@
 ## Hi, I'm Aleksandr Grishin 👋
-<p>Parameter Network CEO. Cryptographer. Learning Cryptography in Stanford Univesity with Dan Boneh.</p>
+<p>Parameter Network CEO. Creating decentralized future.</p>
 
 ## 🧱 Things I building
 <ul>
