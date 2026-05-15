@@ -1,9 +1,8 @@
 ## Hi, I'm Aleksandr Grishin 👋
-<p>Parameter Network CEO. Creating decentralized future.</p>
+<p>Creating decentralized future.</p>
 
 ## 🧱 Things I building
 <ul>
-<li>Grishinium</li>
 <li>Parameter - P2P AI Learning Network</li>
 <li>PoAI (Proof of AI) consensus alghoritm</li>
 <li>Momentum - multiplayer quiz app</li>
@@ -36,9 +35,7 @@
 </div>
 
 
-## 🔗 Links
-[![Grishinium](https://img.shields.io/badge/grishinium-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://grishinium.com)
-[![MyTelegram](https://img.shields.io/badge/Telegram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.me/fearted)
+
 
 
 ## 🔗 Stack
